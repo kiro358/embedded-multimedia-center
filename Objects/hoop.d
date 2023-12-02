@@ -1,0 +1,15 @@
+.\objects\hoop.o: hoop.c
+.\objects\hoop.o: C:\Users\ECBME\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include\LPC17xx.H
+.\objects\hoop.o: C:\Users\ECBME\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm3.h
+.\objects\hoop.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\hoop.o: C:\Users\ECBME\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h
+.\objects\hoop.o: C:\Users\ECBME\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h
+.\objects\hoop.o: C:\Users\ECBME\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h
+.\objects\hoop.o: C:\Users\ECBME\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\mpu_armv7.h
+.\objects\hoop.o: C:\Users\ECBME\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.6.0\Device\Include\system_LPC17xx.h
+.\objects\hoop.o: KBD.h
+.\objects\hoop.o: GLCD.h
+.\objects\hoop.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\hoop.o: backboard.c
+.\objects\hoop.o: basketball.c
+.\objects\hoop.o: white.c

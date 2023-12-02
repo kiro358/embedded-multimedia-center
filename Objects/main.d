@@ -1,0 +1,15 @@
+.\objects\main.o: main.c
+.\objects\main.o: osObjects.h
+.\objects\main.o: C:\Users\ECBME\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\RTOS\RTX\INC\cmsis_os.h
+.\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\main.o: GLCD.h
+.\objects\main.o: LPC17xx.h
+.\objects\main.o: core_cm3.h
+.\objects\main.o: system_LPC17xx.h
+.\objects\main.o: LED.h
+.\objects\main.o: KBD.h
+.\objects\main.o: feathers.c
+.\objects\main.o: fur.c
+.\objects\main.o: scales.c
