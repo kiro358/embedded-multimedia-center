@@ -1,0 +1,68 @@
+Dependencies for Project 'usbaudio', Target 'Flash': (DO NOT MODIFY !)
+F (.\usbuser.c)(0x51801F35)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\common\inc -I.\common\src -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\NXP -o ".\Obj\usbuser.o" --depend ".\Obj\usbuser.d")
+I (type.h)(0x4D25288C)
+I (C:\Keil\ARM\ARMCC\bin\..\include\stdint.h)(0x516F2AA6)
+I (usb.h)(0x51801F35)
+I (usbcfg.h)(0x51801F35)
+I (usbhw.h)(0x51801F35)
+I (usbcore.h)(0x51801F35)
+I (usbuser.h)(0x51801F35)
+I (usbaudio.h)(0x51801F35)
+F (.\usbcore.c)(0x51801F35)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\common\inc -I.\common\src -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\NXP -o ".\Obj\usbcore.o" --depend ".\Obj\usbcore.d")
+I (type.h)(0x4D25288C)
+I (C:\Keil\ARM\ARMCC\bin\..\include\stdint.h)(0x516F2AA6)
+I (usb.h)(0x51801F35)
+I (usbcfg.h)(0x51801F35)
+I (usbhw.h)(0x51801F35)
+I (usbcore.h)(0x51801F35)
+I (usbdesc.h)(0x51801F35)
+I (usbuser.h)(0x51801F35)
+I (audio.h)(0x51801F35)
+I (adcuser.h)(0x51801F35)
+F (.\usbdesc.c)(0x51801F35)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\common\inc -I.\common\src -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\NXP -o ".\Obj\usbdesc.o" --depend ".\Obj\usbdesc.d")
+I (type.h)(0x4D25288C)
+I (C:\Keil\ARM\ARMCC\bin\..\include\stdint.h)(0x516F2AA6)
+I (usb.h)(0x51801F35)
+I (audio.h)(0x51801F35)
+I (usbcfg.h)(0x51801F35)
+I (usbdesc.h)(0x51801F35)
+F (.\usbdmain.c)(0x5452638E)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\common\inc -I.\common\src -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\NXP -o ".\Obj\usbdmain.o" --depend ".\Obj\usbdmain.d")
+I (LPC17xx.h)(0x537C1E0A)
+I (core_cm3.h)(0x4D25288C)
+I (C:\Keil\ARM\ARMCC\bin\..\include\stdint.h)(0x516F2AA6)
+I (system_LPC17xx.h)(0x5452635B)
+I (type.h)(0x4D25288C)
+I (usb.h)(0x51801F35)
+I (usbcfg.h)(0x51801F35)
+I (usbhw.h)(0x51801F35)
+I (usbcore.h)(0x51801F35)
+I (usbaudio.h)(0x51801F35)
+F (.\usbhw.c)(0x54526373)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\common\inc -I.\common\src -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\NXP -o ".\Obj\usbhw.o" --depend ".\Obj\usbhw.d")
+I (LPC17xx.h)(0x537C1E0A)
+I (core_cm3.h)(0x4D25288C)
+I (C:\Keil\ARM\ARMCC\bin\..\include\stdint.h)(0x516F2AA6)
+I (system_LPC17xx.h)(0x5452635B)
+I (type.h)(0x4D25288C)
+I (usb.h)(0x51801F35)
+I (usbcfg.h)(0x51801F35)
+I (usbreg.h)(0x51801F35)
+I (usbhw.h)(0x51801F35)
+I (usbcore.h)(0x51801F35)
+I (usbuser.h)(0x51801F35)
+F (.\adcuser.c)(0x51801F35)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\common\inc -I.\common\src -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\NXP -o ".\Obj\adcuser.o" --depend ".\Obj\adcuser.d")
+I (type.h)(0x4D25288C)
+I (C:\Keil\ARM\ARMCC\bin\..\include\stdint.h)(0x516F2AA6)
+I (usb.h)(0x51801F35)
+I (audio.h)(0x51801F35)
+I (usbcfg.h)(0x51801F35)
+I (usbcore.h)(0x51801F35)
+I (adcuser.h)(0x51801F35)
+I (usbaudio.h)(0x51801F35)
+F (.\system_LPC17xx.c)(0x537CB372)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\common\inc -I.\common\src -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\NXP -o ".\Obj\system_lpc17xx.o" --depend ".\Obj\system_lpc17xx.d")
+I (C:\Keil\ARM\ARMCC\bin\..\include\stdint.h)(0x516F2AA6)
+I (LPC17xx.h)(0x537C1E0A)
+I (core_cm3.h)(0x4D25288C)
+I (system_LPC17xx.h)(0x5452635B)
+F (.\core_cm3.c)(0x4D25288C)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\common\inc -I.\common\src -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\NXP -o ".\Obj\core_cm3.o" --depend ".\Obj\core_cm3.d")
+I (C:\Keil\ARM\ARMCC\bin\..\include\stdint.h)(0x516F2AA6)
+F (.\startup_LPC17xx.s)(0x5088026E)(--cpu Cortex-M3 -g --apcs=interwork -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\NXP --list ".\Lst\startup_LPC17xx.lst" --xref -o ".\Obj\startup_LPC17xx.o" --depend ".\Obj\startup_LPC17xx.d")
